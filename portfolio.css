@@ -1,0 +1,25 @@
+header{
+    text-align: center;
+    font-family: cursive;
+}
+header nav a{ 
+    text-decoration: none; 
+    margin-left:20px;
+}
+section{
+    text-align: center;
+    margin: 50px;
+    margin-top: 20px;
+    font-family: cursive;
+    font-size: large;
+    line-height: 30px;
+}
+
+footer{
+    text-align: right;
+}
+ul li{
+    margin-top: 50px;
+    list-style-type: none;
+    margin-bottom: 40px;
+}

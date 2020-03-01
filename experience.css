@@ -1,0 +1,14 @@
+header{
+    text-align: center;
+    font-family: cursive;
+}
+header nav a{ 
+    text-decoration: none; 
+    margin-left:20px;
+}
+#exp{
+    text-align: center;
+    font-family: cursive;
+    margin-top: 20px;
+}
+
